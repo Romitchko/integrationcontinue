@@ -1,12 +1,11 @@
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
-import data.TriTableau;
+import integrationcontinue.TriTableau;
 
 import java.util.logging.Logger;
 
 
 /**
- * @author YoYoYo Zetsubō Zetsubō
  *
  */
 
